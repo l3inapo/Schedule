@@ -5,8 +5,6 @@
 
 # Table of Contents
 
-[TOC]
-
 ## Dynasafe ADN 
 ### 2022/08/01-2023/08/18
 ## 2023神盾盃資安論壇 
