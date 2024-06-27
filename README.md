@@ -272,7 +272,7 @@ Subject to these Competition Rules and the Terms of Use, the Team prizes will be
 
 ![image](https://hackmd.io/_uploads/H1lyuIh6T.png)
 
-#### ● [picoCTF 2024 Writeup](https://hackmd.io/@CHW/Byha19Apa)
+#### ● [picoCTF 2024 Writeup](https://hackmd.io/@l3inapo/SyxmUXkRp)
 ![image](https://hackmd.io/_uploads/HJhLRley0.png)
 ![image](https://hackmd.io/_uploads/rkWqRxeJC.png)
 ![image](https://hackmd.io/_uploads/BJSoCelJ0.png)
