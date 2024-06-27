@@ -146,12 +146,6 @@ Don’t Become a Creature of the Night
 主辦單位：教育部先進資通安全實務人才培育計畫推動辦公室\
 協辦單位：國立臺灣科技大學資訊管理系、國立臺灣科技大學資訊工程系、國立陽明交通大學資訊工程學系、國立臺灣大學資訊工程學系、國立中正大學資訊工程學系、國立臺北科技大學資訊工程系
 
-同學您好:
-恭喜您成為112年度AIS3 EOF進階資安攻防演練決賽隊伍。
-本次賽程將於2/3(六)及2/4(日)2天在中華電信學院板橋所舉行，詳細決賽議程如下
-![image](https://hackmd.io/_uploads/BJn20pyqT.png)
-![image](https://hackmd.io/_uploads/BJlCA61qT.png)
-
 【AIS3 EOF報到注意事項】
 一、決賽地點：中華電信學院板橋所會館B1樓CB100教室-新北市板橋區民族路168號。\
  (交通資訊https://www.chtti.cht.com.tw/portal/traffic_info_banqiao.jsp)
