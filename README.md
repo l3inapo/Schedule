@@ -38,7 +38,7 @@ https://aegisctf.kktix.cc/events/2023aegiscof
 ![image](https://hackmd.io/_uploads/BkeI4uZAX6.png)
 
 ## iPAS資訊安全工程師證照 初級
-### 2023/11/25 (通過)
+### 2024/06/25 (通過)
 ## TeamT5 Security Camp 2024 筆試題目
 ### 2023/11/10-12/01
 ## 線上資安創新講座-以攻擊策略演練角度協助企業評估、強化與呈現資安投資成效
@@ -88,9 +88,9 @@ https://aegisctf.kktix.cc/events/2023aegiscof
 ### 2023/12/01-15
 WRITE UP:
 
-● [[Web] Computer Security 2023 Fall Course](https://hackmd.io/@CHW/ryPzhx0H6)
-
-● [[Web-lab] Computer Security 2023 Fall Course](https://hackmd.io/@CHW/SkYei2sPp)
+● [[Web] Computer Security 2023 Fall Course](https://hackmd.io/@l3inapo/Hye4PHg8T)
+● [[Web] Computer Security 2023 Fall Course](https://hackmd.io/@l3inapo/Bkd8aoSPp)
+● [[Web] Computer Security 2023 Fall Course](https://hackmd.io/@l3inapo/rJ5edOCDa)
 
 
 ## HackTheBox: University CTF 2023: Brains & Bytes
