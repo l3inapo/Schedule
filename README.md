@@ -90,6 +90,9 @@ WRITE UP:
 Discord 討論群:https://discord.gg/2NuK5XKYP3\
 
 我的writeUp : https://hackmd.io/qBbR6HbZQ1Cz7g59l-E1kw
+名次: (43/165)
+![image](https://hackmd.io/_uploads/S1wW9kNwC.png)
+
 
 ## Cyber Apocalypse 2024: Hacker Royale
 ###  2024/03/09-13
