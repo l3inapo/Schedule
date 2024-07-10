@@ -135,7 +135,7 @@ TICC 台北國際會議中心 201 會議室（台北市信義區信義路五段 
 ## AIS3 Pre-exam CTF 2024
 ### 初賽: 2024/05/25-27
 我的writeUp: https://hackmd.io/@l3inapo/HJo-ZtkNC
-名次 : 第63名
+名次 : (63/328)
 ![image](https://github.com/l3inapo/Schedule/assets/157232879/b749f75a-83a6-4fbd-af79-dbdfe3d936ad)
 
 
