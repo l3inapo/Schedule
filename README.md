@@ -104,6 +104,7 @@ https://ctf.hackthebox.com/event/details/cyber-apocalypse-2024-hacker-royale-138
 
 ## picoCTF 2024
 ###  2024/03/13-27
+名次 : (461/6759)
 https://play.picoctf.org/events/73
 ![image](https://hackmd.io/_uploads/rJJZuLhp6.png)
 
