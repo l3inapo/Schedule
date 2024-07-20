@@ -141,6 +141,7 @@ TICC 台北國際會議中心 201 會議室（台北市信義區信義路五段 
 我的writeUp: https://hackmd.io/@l3inapo/HJo-ZtkNC
 名次 : (63/328)
 ![image](https://github.com/l3inapo/Schedule/assets/157232879/b749f75a-83a6-4fbd-af79-dbdfe3d936ad)
-
-
 ### 課程時間: 2014/07/29- 08/04
+
+## 擔任 HITCON CMT 2024 志工
+### Date: 2024/08/23-24 
