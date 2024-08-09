@@ -143,5 +143,11 @@ TICC 台北國際會議中心 201 會議室（台北市信義區信義路五段 
 ![image](https://github.com/l3inapo/Schedule/assets/157232879/b749f75a-83a6-4fbd-af79-dbdfe3d936ad)
 ### 課程時間: 2014/07/29- 08/04
 
+## AIS3 新型態資安實務暑期課程-情資運用及防禦組
+### 2024/07/29-2024/08/04
+**活動資訊** : https://ais3.org/Home/Course
+獲得 2024 情資運用及防禦組 最佳專題獎
+![S__53968899](https://hackmd.io/_uploads/Hk2S9qQ50.jpg)
+
 ## 擔任 HITCON CMT 2024 志工
 ### Date: 2024/08/23-24 
