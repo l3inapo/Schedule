@@ -141,7 +141,16 @@ TICC 台北國際會議中心 201 會議室（台北市信義區信義路五段 
 我的writeUp: https://hackmd.io/@l3inapo/HJo-ZtkNC
 名次 : (63/328)
 ![image](https://github.com/l3inapo/Schedule/assets/157232879/b749f75a-83a6-4fbd-af79-dbdfe3d936ad)
-### 課程時間: 2014/07/29- 08/04
+
+## CraftCon Taiwan 奧義 AI 資安年會
+### 2024/07/12
+**活動資訊**\
+時間：\
+2024/07/12（五）09:30 - 17:00\
+地點：\
+格萊天漾大飯店 14樓 艋舺廳 （萬華區艋舺大道101號） \
+![image](https://github.com/user-attachments/assets/ffa71773-2d2a-4b95-8036-581453b5d1c5)
+
 
 ## AIS3 新型態資安實務暑期課程-情資運用及防禦組
 ### 2024/07/29-2024/08/04
