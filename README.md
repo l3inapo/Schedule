@@ -163,3 +163,5 @@ TICC 台北國際會議中心 201 會議室（台北市信義區信義路五段 
 
 ## 擔任 HITCON CMT 2024 志工
 ### Date: 2024/08/23-24 
+![image](https://github.com/user-attachments/assets/70789b86-4fa4-4108-a314-0a2c2e771566)
+
